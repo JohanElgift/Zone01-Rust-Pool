@@ -1,2 +1,0 @@
-#la méthode into_iter() permet de convertir le vecteur de caractères inversé en une nouvelle chaîne de caractères
-#la methode collect() est utilise pour transformer un vecteur de caractères inversé en une chaîne de caractères

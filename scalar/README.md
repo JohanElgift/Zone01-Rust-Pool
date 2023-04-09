@@ -1,3 +1,0 @@
-#Chacune des fonctions sum, diff et pro rencoie comme resultat "Result<type, &'static str>" avec type= u8 ou i16.
-#En effet, toutes ces fonctions renvoient une valeur numerique si tout s'est bien passe ou soit elles renvoient une chaine de caractere de type "&' static str" si une erreur s'est produite.
-#Dans le main, etant donne que ces trois fonctions retourne  un "Result<type, &' static str>" alors il est important de gerer les deux cas de sortie.
